@@ -1,4 +1,4 @@
-=== Yahoo ans ===
+=== Tumblr ans ===
 Contributors: imran khan
 Tags: tumblr, seo, publish, post
 Requires at least: 2.0.2
@@ -24,6 +24,7 @@ admin panel you unlike, delete, reblog and view your post.
 
 1. screenshot-1.png
 2. screenshot-2.png
+3. screenshot-3.png
 
 == Changelog ==
 
