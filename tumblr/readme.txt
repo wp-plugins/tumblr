@@ -1,4 +1,4 @@
-=== Tumblr ans ===
+=== Tumblr ===
 Contributors: imran khan
 Tags: tumblr, seo, publish, post
 Requires at least: 2.0.2
