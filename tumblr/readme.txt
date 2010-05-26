@@ -9,10 +9,12 @@ This plugin helps you to manage the tumblr account from wordpress and publish po
 
 == Description ==
 
-To spread your post over internet tumblr is best palce to publish your blog. Plugin acts as connector between tumblr and wordpress.
-Gives access to admin to manage sites tumblr account. It publish your blog on tumblr as soon as you publish on your site and from
-admin panel you unlike, delete, reblog and view your post.  
-
+ Tumblr is best place to share and spread photos, blogs, music etc on internet.
+ This plugin would allow a user to act as a mediator between tumblr and wordpress.
+ Once we give access to the tumblr account,
+ this plugin can automatically, publish the content to the Tumblr account.
+ It also allow us to perform tasks like unlike, delete, reblog and view posts.
+ 
 == Installation ==
 
 1. Upload `tumblr` to `/wp-content/plugins/` directory
